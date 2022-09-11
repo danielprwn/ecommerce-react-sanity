@@ -1,12 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+E-commerce React Sanity Stripe Web App.
 
-npm run start e-commerce\sanity_ecommerce folder
-npm run build e-commerce folder
-npm run start e-commerce folder
+✔ Ability to transfer files to disk. ✔ Login option with Google.
+
+Technologies ✅ HTML ✅ CSS ⚛ React JS ✅ Sanity Stripe ✅ Next.js
+
+Download the repository and run it locally:
+
+$ npm run start e-commerce\sanity_ecommerce folder
+$ npm run build e-commerce folder
+$ npm run start e-commerce folder
 
 Or click npm script manager
-
-
 
  hooks, and refs
 -  State Management of the entire application using React Context API
