@@ -7,14 +7,9 @@ Technologies ✅ HTML ✅ CSS ⚛ React JS ✅ Sanity Stripe ✅ Next.js
 Download the repository and run it locally:
 
 ### `npm install`
-
-### `npm start`
-
-
-
-### npm run start e-commerce\sanity_ecommerce folder
-### npm run build e-commerce folder
-### npm run start e-commerce folder
+### `npm run start` e-commerce\sanity_ecommerce folder
+### `npm run build` e-commerce folder
+### `npm run start` e-commerce folder
 
 Or click npm script manager
 
