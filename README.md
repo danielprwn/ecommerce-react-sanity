@@ -1,8 +1,8 @@
-E-commerce React Sanity Stripe Web App.
+# E-commerce React Sanity Stripe Web App.
 
 ✔ Ability to transfer files to disk. ✔ Login option with Google.
 
-Technologies ✅ HTML ✅ CSS ⚛ React JS ✅ Sanity Stripe ✅ Next.js
+## Technologies ✅ HTML ✅ CSS ⚛ React JS ✅ Sanity Stripe ✅ Next.js
 
 Download the repository and run it locally:
 
