@@ -6,11 +6,20 @@ Technologies ✅ HTML ✅ CSS ⚛ React JS ✅ Sanity Stripe ✅ Next.js
 
 Download the repository and run it locally:
 
-$ npm run start e-commerce\sanity_ecommerce folder
-$ npm run build e-commerce folder
-$ npm run start e-commerce folder
+### `npm install`
+
+### `npm start`
+
+
+
+### npm run start e-commerce\sanity_ecommerce folder
+### npm run build e-commerce folder
+### npm run start e-commerce folder
 
 Or click npm script manager
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
  hooks, and refs
 -  State Management of the entire application using React Context API
